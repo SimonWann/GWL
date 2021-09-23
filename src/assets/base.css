@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Gilroy;
+  src: url('@/assets/Gilroy-ExtraBold.otf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: Gilroy;
+  src: url('@/assets/Gilroy-Light.otf');
+  font-weight: 400;
+}
+:root{
+  --black: #121212;
+  --gray: #c4c4c4;
+}
