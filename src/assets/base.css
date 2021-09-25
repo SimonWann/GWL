@@ -11,4 +11,17 @@
 :root{
   --black: #121212;
   --gray: #c4c4c4;
+  --gray-text: #D5D5D5;
+  --text-height: 2.875rem
+}
+html{
+  font: 400 16px Gilroy;
+}
+*{
+  padding: 0;
+  margin: 0;
+  border-width: 0;
+}
+@media screen and (max-width: 1440px) {
+  
 }

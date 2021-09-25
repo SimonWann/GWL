@@ -9,6 +9,7 @@
   "dependencies": {
     "normalize.css": "^8.0.1",
     "sass": "^1.42.1",
+    "swiper": "^7.0.6",
     "vue": "^3.2.13",
     "vue-router": "4"
   },

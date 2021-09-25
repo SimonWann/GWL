@@ -147,6 +147,13 @@ csstype@^2.6.8:
   resolved "https://registry.nlark.com/csstype/download/csstype-2.6.18.tgz#980a8b53085f34af313410af064f2bd241784218"
   integrity sha1-mAqLUwhfNK8xNBCvBk8r0kF4Qhg=
 
+dom7@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.nlark.com/dom7/download/dom7-4.0.0.tgz#69c8fb9b170c92d64f385fdc37f81456e82b80a1"
+  integrity sha1-acj7mxcMktZPOF/cN/gUVugrgKE=
+  dependencies:
+    ssr-window "^4.0.0"
+
 esbuild@^0.12.17:
   version "0.12.29"
   resolved "https://registry.npmmirror.com/esbuild/download/esbuild-0.12.29.tgz#be602db7c4dc78944a9dbde0d1ea19d36c1f882d"
@@ -308,6 +315,19 @@ sourcemap-codec@^1.4.4:
   version "1.4.8"
   resolved "https://registry.npm.taobao.org/sourcemap-codec/download/sourcemap-codec-1.4.8.tgz#ea804bd94857402e6992d05a38ef1ae35a9ab4c4"
   integrity sha1-6oBL2UhXQC5pktBaOO8a41qatMQ=
+
+ssr-window@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.nlark.com/ssr-window/download/ssr-window-4.0.0.tgz?cache=0&sync_timestamp=1629879256060&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fssr-window%2Fdownload%2Fssr-window-4.0.0.tgz#4ee82fc360c5f88a022f321740bcfec59ada1a61"
+  integrity sha1-Tugvw2DF+IoCLzIXQLz+xZraGmE=
+
+swiper@^7.0.6:
+  version "7.0.6"
+  resolved "https://registry.nlark.com/swiper/download/swiper-7.0.6.tgz#a7271ed5cb05bb6681f7ed855e9a6bcb6d49f9a9"
+  integrity sha1-pyce1csFu2aB9+2FXppry21J+ak=
+  dependencies:
+    dom7 "^4.0.0"
+    ssr-window "^4.0.0"
 
 to-regex-range@^5.0.1:
   version "5.0.1"
